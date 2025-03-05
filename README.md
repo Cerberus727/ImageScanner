@@ -7,4 +7,4 @@ Python-based image processing application to detect the bounding box of a card o
 4.The output image gets generated in a new pop up window
 (You can also run the source code to get the output, however, necessary modules need to be installed first like open-cv and numpy)
 
-No API has been used in this project
+No external API has been used in this project
